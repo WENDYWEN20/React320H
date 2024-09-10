@@ -9,9 +9,9 @@ function App() {
     <> 
     <Header />
     <main>
-    <Nav />
     <Article1/>
     <Article2/>
+    <Nav />
     </main>
     </>
   );
